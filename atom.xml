@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[]]></title>
+  <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
+  <link href="http://127.0.0.1:4000/"/>
+  <updated>2014-07-16T15:26:03+08:00</updated>
+  <id>http://127.0.0.1:4000/</id>
+  <author>
+    <name><![CDATA[samueldeng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[BLOG REOPEN!]]></title>
+    <link href="http://127.0.0.1:4000/blog/2014/07/16/reopen-my-blog/"/>
+    <updated>2014-07-16T15:15:00+08:00</updated>
+    <id>http://127.0.0.1:4000/blog/2014/07/16/reopen-my-blog</id>
+    <content type="html"><![CDATA[<p>My personal blog reopen, thanks for visiting.</p>
+
+<!-- More -->
+
+
+<h2>this is a sample header</h2>
+
+<p>Here&rsquo;s some sample code:</p>
+
+<p>~~~
+def test
+  @answer = 6*9
+  if @answer != 42  # this should never happen</p>
+
+<pre><code>raise "Oh no, not again."
+</code></pre>
+
+<p>  else</p>
+
+<pre><code>print "Don't panic."
+</code></pre>
+
+<p>end
+~~~
+{:lang=&ldquo;ruby&rdquo;}</p>
+]]></content>
+  </entry>
+  
+</feed>
