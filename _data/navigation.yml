@@ -2,11 +2,15 @@
   url: "/"
   side: left
 
-- title: "RapidJSON"
+- title: "投资理财"
   url: "/rapidjson/"
   side: left
 
-- title: "计算机图形学"
+- title: "IT"
+  url: "/graphics/"
+  side: left
+
+- title: "健身"
   url: "/graphics/"
   side: left
 
