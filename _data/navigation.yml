@@ -3,15 +3,15 @@
   side: left
 
 - title: "投资理财"
-  url: "/rapidjson/"
+  url: "/investment/"
   side: left
 
 - title: "IT"
-  url: "/graphics/"
+  url: "/it/"
   side: left
 
 - title: "健身"
-  url: "/graphics/"
+  url: "/body/"
   side: left
 
 - title: "杂文"
